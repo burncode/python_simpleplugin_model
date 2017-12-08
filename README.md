@@ -1,0 +1,2 @@
+# python_simpleplugin_model
+一个简单的python插件模型
